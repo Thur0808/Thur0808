@@ -1,8 +1,4 @@
-## Olá, eu sou o Arthur, mais conhecido como Thur
-
-- Atualmente ainda não trabalho, mas estou fazendo senai
-- Até então python
-- Hobbie: Futebol
+## Thur0808
 
 <div
   a href= "https://github.com/Thur0808">
